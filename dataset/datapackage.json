@@ -1,10 +1,10 @@
 {
   "name": "sejusp_homicidio_consumado",
-  "owner_org": "",
+  "owner_org": "secretaria-de-estado-de-justica-e-seguranca-publica-sejusp",
   "profile": "data-package",
   "resources": [
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "Dados de Homicídios Consumados",
       "dialect": {
         "delimiter": ";"
       },
@@ -51,8 +51,8 @@
         ]
       },
       "scheme": "file",
-      "title": "Insira um título humanamente legível para este recurso."
+      "title": "Homicícios Consumados"
     }
   ],
-  "title": "Sejusp_homicidio_consumado"
+  "title": "Homicídios Consumados"
 }
