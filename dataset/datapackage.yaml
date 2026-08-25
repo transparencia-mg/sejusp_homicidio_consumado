@@ -1,8 +1,8 @@
 name: sejusp_homicidio_consumado
-owner_org: ''
+owner_org: secretaria-de-estado-de-justica-e-seguranca-publica-sejusp
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: Dados de Homicídios Consumados
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -30,5 +30,5 @@ resources:
         - name: rmbh
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-title: Sejusp_homicidio_consumado
+    title: Homicícios Consumados
+title: Homicídios Consumados
