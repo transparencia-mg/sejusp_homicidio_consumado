@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Dados de Homicídios Consumados",
+      "description": "Dados de Vítimas Homicídio Consumado",
       "dialect": {
         "delimiter": ";"
       },
@@ -51,8 +51,8 @@
         ]
       },
       "scheme": "file",
-      "title": "Homicícios Consumados"
+      "title": "Vítimas de Homicídio Consumado"
     }
   ],
-  "title": "Homicídios Consumados"
+  "title": "Vítimas de Homicídio Consumado"
 }
