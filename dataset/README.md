@@ -10,9 +10,9 @@ Os dados estão disponíveis a partir de 2012, tendo em vista que a implantaçã
 
 Os dados são extraídos no quinto dia do mês ou no primeiro dia útil subsequente. Como o REDS é um sistema dinâmico, registros incluídos posteriormente podem se referir a fatos ocorridos em meses ou anos anteriores. Por esse motivo, a metodologia de extração considera os três meses anteriores, permitindo a inclusão de registros inseridos posteriormente e relacionados a fatos ocorridos em períodos anteriores.
 
-## Painel de Homicídios Consumados
+## Painel de Vítimas de Homicídio Consumado
 
-[Painel de Homicídios Consumados](https://app.powerbi.com/view?r=eyJrIjoiNzI2N2FjNDEtOTZjNS00ZDA2LWI4NGMtMWM2N2IwNDQ4MmRhIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+[Painel de Vítimas de Homicídio Consumado](https://app.powerbi.com/view?r=eyJrIjoiNzI2N2FjNDEtOTZjNS00ZDA2LWI4NGMtMWM2N2IwNDQ4MmRhIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 ## Manual de Crimes Violentos
 
