@@ -1,11 +1,10 @@
 {
   "version": "4.16.6",
-  "time": 2.783,
+  "time": 2.753,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Dados de Vítimas Homicídio Consumado",
         "dialect": {
           "delimiter": ";"
         },
@@ -60,7 +59,7 @@
           "rows": 149275
         }
       },
-      "time": 2.772,
+      "time": 2.742,
       "scope": [
         "hash-count-error",
         "byte-count-error",
