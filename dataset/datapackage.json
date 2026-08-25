@@ -4,7 +4,6 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Dados de Vítimas Homicídio Consumado",
       "dialect": {
         "delimiter": ";"
       },
