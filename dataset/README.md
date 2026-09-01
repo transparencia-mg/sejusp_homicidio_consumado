@@ -1,6 +1,6 @@
 O Homicídio Consumado é uma das naturezas que compõem o Banco de Crimes Violentos da Secretaria de Estado de Justiça e Segurança Pública de Minas Gerais – SEJUSP.
 
-Os dados utilizados neste banco foram extraídos do Armazém de Dados do Sistema Integrado de Defesa Social, em seu módulo Registro de Evento de Defesa Social – REDS (Armazém_Sids_Reds). O Armazém_Sids_Reds compila os REDS registrados em Minas Gerais para as diferentes naturezas previstas. Por se tratar de um sistema integrado, abrange notificações registradas pela Polícia Militar, Polícia Civil, Corpo de Bombeiros Militar, Sistema Prisional e Sistema Socioeducativo.
+Os dados utilizados neste banco foram extraídos da Base Integrada de Segurança Pública (Bisp), em seu módulo Registro de Evento de Defesa Social – REDS. A Bisp compila os REDS registrados em Minas Gerais para as diferentes naturezas previstas. Por se tratar de um sistema integrado, abrange notificações registradas pela Polícia Militar, Polícia Civil, Corpo de Bombeiros Militar, Sistema Prisional e Sistema Socioeducativo.
 
 Os registros são apresentados segundo recortes territoriais e temporais, possibilitando a análise dos Homicídios Consumados em Minas Gerais por município, Região Integrada de Segurança Pública – RISP, mês e ano do fato. O banco disponibiliza, ainda, a identificação dos municípios pertencentes à Região Metropolitana de Belo Horizonte – RMBH.
 
